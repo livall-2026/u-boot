@@ -49,6 +49,7 @@
 
 &mmc0 {
 	status = "okay";
+	1-8-v;
 };
 
 &mmc1 {
